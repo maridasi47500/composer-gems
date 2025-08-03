@@ -47,3 +47,7 @@
     - connect to violin school from different countries
     - connect to violin concurso in different countries
     - italian school violin composer -"violin making" -"violin maker" -"violin makers"
+    - german violin school composer -"violin making" -"violin maker" -"violin makers"
+    - renowned violin pedagogue, and composer
+    - important violin educators
+    - 
