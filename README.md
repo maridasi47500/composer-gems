@@ -4,11 +4,11 @@
 - This README likely introduces major violin traditions across different countries, highlighting influential figures who shaped each style.
 ## 🇮🇹 Italian School
 
-    Corelli, Tartini, Vivaldi, Paganini Pioneers of virtuosic technique and expressive phrasing. Paganini especially revolutionized violin playing with dazzling showmanship.
+ *  Corelli, Tartini, Vivaldi, Paganini Pioneers of virtuosic technique and expressive phrasing. Paganini especially revolutionized violin playing with dazzling showmanship.
 
  ### 🇫🇷 French School
 
-    Viotti, Kreutzer, Baÿeux Focused on elegance, clarity, and refined bowing techniques. Viotti bridged Italian and French styles, influencing later conservatory traditions.
+   * Viotti, Kreutzer, Baÿeux Focused on elegance, clarity, and refined bowing techniques. Viotti bridged Italian and French styles, influencing later conservatory traditions.
 
 ### 🇩🇪 German School
 
@@ -16,15 +16,15 @@
 
 #### 🇷🇺 Russian School
 
-    Heifetz Represents technical brilliance and emotional intensity. Russian training emphasizes discipline and dramatic interpretation.
+ -   Heifetz Represents technical brilliance and emotional intensity. Russian training emphasizes discipline and dramatic interpretation.
 
 
 
-    Tu écris une partition  avec les cordes g d a e   Et le rythme. 
+ -   Tu écris une partition  avec les cordes g d a e   Et le rythme. 
 
-    Tu vas dans les  partition violin tu écris school école ou schule
+ -   Tu vas dans les  partition violin tu écris school école ou schule
 
-    imslp org wiki Category For_violin
+   - imslp org wiki Category For_violin
 
 
     french violin school wiki imslp
@@ -37,6 +37,7 @@
 
 
     achool jnterpretation violin
+    - italian school violin -"violin making" -"violin maker"
 
     Gems de Paganini 
 
