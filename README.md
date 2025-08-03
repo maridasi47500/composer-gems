@@ -44,3 +44,4 @@
     nel cor più non mi sento Par Paganini 
 
     Nom d’un composer dans le titre un nom d’un autre composer 
+    - connect to violin school from different countries
