@@ -55,3 +55,4 @@
     - italian violin style Bowing eight note
     - italian violin style Bowing downbow
     - italian violin style Bowing slurs
+- german violin playing style half eigth quarter bow
