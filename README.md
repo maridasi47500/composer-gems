@@ -52,3 +52,6 @@
     - important violin educators
     * bdd ou llm ; pays ont des composer, composer ont pieces (tempo, mesure, rythmne quil y a souvent),
     - interpretation : auer, sevcik,
+    - italian violin style Bowing eight note
+    - italian violin style Bowing downbow
+    - italian violin style Bowing slurs
