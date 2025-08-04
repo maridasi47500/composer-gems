@@ -50,4 +50,5 @@
     - german violin school composer -"violin making" -"violin maker" -"violin makers"
     - renowned violin pedagogue, and composer
     - important violin educators
+    * pays ont des composer, composer ont pieces (tempo, mesure, rythmne quil y a souvent),
     - 
