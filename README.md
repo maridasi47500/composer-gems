@@ -57,4 +57,5 @@
     - italian violin style Bowing downbow
     - italian violin style Bowing slurs
 - german violin playing style half eigth quarter bow (mozart violin book)
-- german violin playing style (carl flesch art of violin book)
+- german violin playing style (carl flesch art of violin book) (SOME POINTS OF
+VIOLIN PLAYING AND MUSICAL PERFORMANCE as learnt in the Hochschulefiir Musik (Joachim School) 
