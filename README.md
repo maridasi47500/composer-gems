@@ -61,3 +61,4 @@
 VIOLIN PLAYING AND MUSICAL PERFORMANCE as learnt in the Hochschulefiir Musik (Joachim School) 
   - french violin playing style composer (viotti pierre baillot mazas)
   - french theory of violin playing methodological publications
+- french theory of violin playing methodological publications upbow
