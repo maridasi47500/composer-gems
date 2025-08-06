@@ -60,4 +60,4 @@
 - german violin playing style (carl flesch art of violin book) (SOME POINTS OF
 VIOLIN PLAYING AND MUSICAL PERFORMANCE as learnt in the Hochschulefiir Musik (Joachim School) 
   - french violin playing style composer (viotti pierre baillot mazas)
-  - 
+  - french theory of violin playing methodological publications
