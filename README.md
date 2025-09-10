@@ -62,3 +62,6 @@ VIOLIN PLAYING AND MUSICAL PERFORMANCE as learnt in the Hochschulefiir Musik (Jo
   - french violin playing style composer (viotti pierre baillot mazas)
   - french theory of violin playing methodological publications
 - french theory of violin playing methodological publications upbow
+- - ![alt text](./viotti.png) 
+
+- ![alt text](./paganini.png) 
