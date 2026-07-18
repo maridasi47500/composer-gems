@@ -64,4 +64,9 @@ VIOLIN PLAYING AND MUSICAL PERFORMANCE as learnt in the Hochschulefiir Musik (Jo
 - french theory of violin playing methodological publications upbow
 - - ![alt text](./viotti.png) 
 
-- ![alt text](./paganini.png) 
+- ![alt text](./paganini.png)
+
+- orchestrationresources.com/. /chapter-7-bowing-for-all-strings
+
+
+   - ://orch.info/ _5.34_Bowings_-How_to_Bow_an_Orchestral_Part
