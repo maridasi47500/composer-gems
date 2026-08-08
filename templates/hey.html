@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block montitre %}
+debut de mes mots: partage des bouts de partitions et les  endroits  où tu  veux les jouer.
+{% endblock %}
+{% block content %}
+<h1># composer-gems</h1>
+{% for x in users | reverse %}
+ <li>{{ x["first_name"]  }}</li>
+
+{% endfor %} 
+fin de mes mots : bienvenue dans composer gems
+{% endblock %}
+{% block liens %}
+<a href="/">welcome</a>
+{% endblock %}
+<a href="/add_one_country"> add one country</a><a href="/add_one_user"> add one user</a><a href="/add_one_location"> add one location</a><a href="/add_one_bowing_or_technical_school"> add one bowing_or_technical_school</a><a href="/add_one_composer"> add one composer</a><a href="/add_one_musicalinstrument"> add one musicalinstrument</a><a href="/add_one_artist"> add one artist</a><a href="/add_one_score"> add one score</a>
